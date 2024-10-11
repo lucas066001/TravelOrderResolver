@@ -166,3 +166,8 @@ cython_debug/
 
 # Remove test ouptuts
 output.*
+
+# Ignore the models files
+notebooks/spacy_ner/spacy/
+notebooks/spacy_ner/tor_ner_train.spacy
+notebooks/spacy_ner/tor_ner_test.spacy
